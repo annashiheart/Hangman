@@ -1,3 +1,3 @@
 # giant-playground
 
-# learning to code. here's where my projects will go
+Basic hangman game to brush up on Python skills

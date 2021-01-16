@@ -1,3 +1,3 @@
-# giant-playground
+# Hangmang game
 
-Basic hangman game to brush up on Python skills
+Basic Hangman game to brush up on Python skills
